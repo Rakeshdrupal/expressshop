@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="node_modules/bytes/|node_modules/send/node_modules/depd/lib/compat/|node_modules/raw-body/node_modules/iconv-lite/lib/|node_modules/mime-types/|node_modules/content-disposition/|node_modules/cookie-parser/|node_modules/raw-body/|node_modules/handlebars/dist/amd/|node_modules/parseurl/|node_modules/async/lib/|node_modules/express/node_modules/depd/lib/compat/|node_modules/iconv-lite/lib/|node_modules/basic-auth/|node_modules/cookie-parser/lib/|node_modules/serve-favicon/|node_modules/express/node_modules/depd/lib/browser/|node_modules/handlebars/dist/cjs/handlebars/compiler/|node_modules/uglify-js/test/compress/|node_modules/send/node_modules/depd/|node_modules/send/|node_modules/qs/lib/|node_modules/source-map/lib/|node_modules/hbs/examples/extend/|node_modules/negotiator/|node_modules/source-map/lib/source-map/|node_modules/send/node_modules/depd/lib/browser/|node_modules/ipaddr.js/|node_modules/negotiator/lib/|node_modules/mime/build/|node_modules/express/lib/middleware/|node_modules/inherits/|node_modules/express/node_modules/depd/|node_modules/optimist/|node_modules/express/node_modules/cookie/|node_modules/source-map/test/source-map/|node_modules/proxy-addr/|node_modules/raw-body/node_modules/iconv-lite/encodings/|node_modules/mime-db/|node_modules/statuses/|node_modules/destroy/|node_modules/minimist/|node_modules/handlebars/dist/|node_modules/serve-static/node_modules/depd/lib/browser/|node_modules/minimist/example/|node_modules/optimist/test/_/|node_modules/escape-html/|node_modules/hbs/lib/|node_modules/serve-static/node_modules/send/|node_modules/uglify-js/node_modules/optimist/test/|node_modules/serve-static/|node_modules/finalhandler/|node_modules/on-finished/|node_modules/sequence/|node_modules/send/node_modules/statuses/|node_modules/uglify-js/tools/|node_modules/ipaddr.js/lib/|node_modules/morgan/|node_modules/handlebars/lib/handlebars/compiler/|node_modules/path-to-regexp/|node_modules/handlebars/dist/cjs/|node_modules/wordwrap/|node_modules/body-parser/lib/types/|node_modules/uglify-js/node_modules/optimist/test/_/|node_modules/wordwrap/example/|node_modules/http-errors/|node_modules/on-headers/|node_modules/serve-static/node_modules/statuses/|node_modules/handlebars/lib/handlebars/|node_modules/unpipe/|node_modules/forEachAsync/|node_modules/media-typer/|node_modules/merge-descriptors/|node_modules/accepts/|node_modules/methods/|node_modules/handlebars/dist/amd/handlebars/compiler/|node_modules/fresh/|node_modules/uglify-js/node_modules/optimist/example/|node_modules/source-map/|node_modules/vary/|node_modules/qs/test/|node_modules/minimist/test/|node_modules/source-map/test/|node_modules/ee-first/|node_modules/express/lib/|node_modules/forwarded/|node_modules/depd/lib/compat/|node_modules/uglify-js/lib/|node_modules/serve-static/node_modules/depd/|node_modules/array-flatten/|routes/|node_modules/wordwrap/test/|node_modules/optimist/test/|node_modules/body-parser/|node_modules/uglify-js/test/|node_modules/serve-static/node_modules/depd/lib/compat/|node_modules/etag/|node_modules/iconv-lite/encodings/|node_modules/source-map/build/|node_modules/raw-body/node_modules/bytes/|node_modules/ms/|node_modules/express/|node_modules/handlebars/dist/cjs/handlebars/|node_modules/cookie-signature/|node_modules/hbs/examples/partial/|node_modules/utils-merge/|node_modules/handlebars/lib/|node_modules/express/lib/router/|node_modules/walk/|node_modules/uglify-js/node_modules/optimist/|node_modules/mime/|node_modules/optimist/example/|node_modules/content-type/|node_modules/body-parser/lib/|node_modules/type-is/|node_modules/handlebars/|node_modules/debug/|node_modules/range-parser/|node_modules/depd/|node_modules/cookie/|node_modules/handlebars/dist/amd/handlebars/|node_modules/amdefine/" kind="src" path=""/>
+	<classpathentry kind="src" path="node_modules/accepts"/>
+	<classpathentry kind="src" path="node_modules/amdefine"/>
+	<classpathentry kind="src" path="node_modules/array-flatten"/>
+	<classpathentry kind="src" path="node_modules/async/lib"/>
+	<classpathentry kind="src" path="node_modules/basic-auth"/>
+	<classpathentry excluding="lib/types/|lib/" kind="src" path="node_modules/body-parser"/>
+	<classpathentry excluding="types/" kind="src" path="node_modules/body-parser/lib"/>
+	<classpathentry kind="src" path="node_modules/body-parser/lib/types"/>
+	<classpathentry kind="src" path="node_modules/bytes"/>
+	<classpathentry kind="src" path="node_modules/content-disposition"/>
+	<classpathentry kind="src" path="node_modules/content-type"/>
+	<classpathentry kind="src" path="node_modules/cookie"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/cookie-parser"/>
+	<classpathentry kind="src" path="node_modules/cookie-parser/lib"/>
+	<classpathentry kind="src" path="node_modules/cookie-signature"/>
+	<classpathentry kind="src" path="node_modules/debug"/>
+	<classpathentry excluding="lib/compat/" kind="src" path="node_modules/depd"/>
+	<classpathentry kind="src" path="node_modules/depd/lib/compat"/>
+	<classpathentry kind="src" path="node_modules/destroy"/>
+	<classpathentry kind="src" path="node_modules/ee-first"/>
+	<classpathentry kind="src" path="node_modules/escape-html"/>
+	<classpathentry kind="src" path="node_modules/etag"/>
+	<classpathentry excluding="node_modules/depd/lib/compat/|node_modules/depd/lib/browser/|lib/middleware/|node_modules/depd/|node_modules/cookie/|lib/|lib/router/" kind="src" path="node_modules/express"/>
+	<classpathentry excluding="middleware/|router/" kind="src" path="node_modules/express/lib"/>
+	<classpathentry kind="src" path="node_modules/express/lib/middleware"/>
+	<classpathentry kind="src" path="node_modules/express/lib/router"/>
+	<classpathentry kind="src" path="node_modules/express/node_modules/cookie"/>
+	<classpathentry excluding="lib/compat/|lib/browser/" kind="src" path="node_modules/express/node_modules/depd"/>
+	<classpathentry kind="src" path="node_modules/express/node_modules/depd/lib/browser"/>
+	<classpathentry kind="src" path="node_modules/express/node_modules/depd/lib/compat"/>
+	<classpathentry kind="src" path="node_modules/finalhandler"/>
+	<classpathentry kind="src" path="node_modules/forEachAsync"/>
+	<classpathentry kind="src" path="node_modules/forwarded"/>
+	<classpathentry kind="src" path="node_modules/fresh"/>
+	<classpathentry excluding="dist/amd/|dist/cjs/handlebars/compiler/|dist/|lib/handlebars/compiler/|dist/cjs/|lib/handlebars/|dist/amd/handlebars/compiler/|dist/cjs/handlebars/|lib/|dist/amd/handlebars/" kind="src" path="node_modules/handlebars"/>
+	<classpathentry excluding="amd/|cjs/handlebars/compiler/|cjs/|amd/handlebars/compiler/|cjs/handlebars/|amd/handlebars/" kind="src" path="node_modules/handlebars/dist"/>
+	<classpathentry excluding="handlebars/compiler/|handlebars/" kind="src" path="node_modules/handlebars/dist/amd"/>
+	<classpathentry excluding="compiler/" kind="src" path="node_modules/handlebars/dist/amd/handlebars"/>
+	<classpathentry kind="src" path="node_modules/handlebars/dist/amd/handlebars/compiler"/>
+	<classpathentry excluding="handlebars/compiler/|handlebars/" kind="src" path="node_modules/handlebars/dist/cjs"/>
+	<classpathentry excluding="compiler/" kind="src" path="node_modules/handlebars/dist/cjs/handlebars"/>
+	<classpathentry kind="src" path="node_modules/handlebars/dist/cjs/handlebars/compiler"/>
+	<classpathentry excluding="handlebars/compiler/|handlebars/" kind="src" path="node_modules/handlebars/lib"/>
+	<classpathentry excluding="compiler/" kind="src" path="node_modules/handlebars/lib/handlebars"/>
+	<classpathentry kind="src" path="node_modules/handlebars/lib/handlebars/compiler"/>
+	<classpathentry kind="src" path="node_modules/hbs/examples/extend"/>
+	<classpathentry kind="src" path="node_modules/hbs/examples/partial"/>
+	<classpathentry kind="src" path="node_modules/hbs/lib"/>
+	<classpathentry kind="src" path="node_modules/http-errors"/>
+	<classpathentry kind="src" path="node_modules/iconv-lite/encodings"/>
+	<classpathentry kind="src" path="node_modules/iconv-lite/lib"/>
+	<classpathentry kind="src" path="node_modules/inherits"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/ipaddr.js"/>
+	<classpathentry kind="src" path="node_modules/ipaddr.js/lib"/>
+	<classpathentry kind="src" path="node_modules/media-typer"/>
+	<classpathentry kind="src" path="node_modules/merge-descriptors"/>
+	<classpathentry kind="src" path="node_modules/methods"/>
+	<classpathentry excluding="build/" kind="src" path="node_modules/mime"/>
+	<classpathentry kind="src" path="node_modules/mime-db"/>
+	<classpathentry kind="src" path="node_modules/mime-types"/>
+	<classpathentry kind="src" path="node_modules/mime/build"/>
+	<classpathentry excluding="example/|test/" kind="src" path="node_modules/minimist"/>
+	<classpathentry kind="src" path="node_modules/minimist/example"/>
+	<classpathentry kind="src" path="node_modules/minimist/test"/>
+	<classpathentry kind="src" path="node_modules/morgan"/>
+	<classpathentry kind="src" path="node_modules/ms"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/negotiator"/>
+	<classpathentry kind="src" path="node_modules/negotiator/lib"/>
+	<classpathentry kind="src" path="node_modules/on-finished"/>
+	<classpathentry kind="src" path="node_modules/on-headers"/>
+	<classpathentry excluding="test/_/|test/|example/" kind="src" path="node_modules/optimist"/>
+	<classpathentry kind="src" path="node_modules/optimist/example"/>
+	<classpathentry excluding="_/" kind="src" path="node_modules/optimist/test"/>
+	<classpathentry kind="src" path="node_modules/optimist/test/_"/>
+	<classpathentry kind="src" path="node_modules/parseurl"/>
+	<classpathentry kind="src" path="node_modules/path-to-regexp"/>
+	<classpathentry kind="src" path="node_modules/proxy-addr"/>
+	<classpathentry kind="src" path="node_modules/qs/lib"/>
+	<classpathentry kind="src" path="node_modules/qs/test"/>
+	<classpathentry kind="src" path="node_modules/range-parser"/>
+	<classpathentry excluding="node_modules/iconv-lite/lib/|node_modules/iconv-lite/encodings/|node_modules/bytes/" kind="src" path="node_modules/raw-body"/>
+	<classpathentry kind="src" path="node_modules/raw-body/node_modules/bytes"/>
+	<classpathentry kind="src" path="node_modules/raw-body/node_modules/iconv-lite/encodings"/>
+	<classpathentry kind="src" path="node_modules/raw-body/node_modules/iconv-lite/lib"/>
+	<classpathentry excluding="node_modules/depd/lib/compat/|node_modules/depd/|node_modules/depd/lib/browser/|node_modules/statuses/" kind="src" path="node_modules/send"/>
+	<classpathentry excluding="lib/compat/|lib/browser/" kind="src" path="node_modules/send/node_modules/depd"/>
+	<classpathentry kind="src" path="node_modules/send/node_modules/depd/lib/browser"/>
+	<classpathentry kind="src" path="node_modules/send/node_modules/depd/lib/compat"/>
+	<classpathentry kind="src" path="node_modules/send/node_modules/statuses"/>
+	<classpathentry kind="src" path="node_modules/sequence"/>
+	<classpathentry kind="src" path="node_modules/serve-favicon"/>
+	<classpathentry excluding="node_modules/depd/lib/browser/|node_modules/send/|node_modules/statuses/|node_modules/depd/|node_modules/depd/lib/compat/" kind="src" path="node_modules/serve-static"/>
+	<classpathentry excluding="lib/browser/|lib/compat/" kind="src" path="node_modules/serve-static/node_modules/depd"/>
+	<classpathentry kind="src" path="node_modules/serve-static/node_modules/depd/lib/browser"/>
+	<classpathentry kind="src" path="node_modules/serve-static/node_modules/depd/lib/compat"/>
+	<classpathentry kind="src" path="node_modules/serve-static/node_modules/send"/>
+	<classpathentry kind="src" path="node_modules/serve-static/node_modules/statuses"/>
+	<classpathentry excluding="lib/|lib/source-map/|test/source-map/|test/|build/" kind="src" path="node_modules/source-map"/>
+	<classpathentry kind="src" path="node_modules/source-map/build"/>
+	<classpathentry excluding="source-map/" kind="src" path="node_modules/source-map/lib"/>
+	<classpathentry kind="src" path="node_modules/source-map/lib/source-map"/>
+	<classpathentry excluding="source-map/" kind="src" path="node_modules/source-map/test"/>
+	<classpathentry kind="src" path="node_modules/source-map/test/source-map"/>
+	<classpathentry kind="src" path="node_modules/statuses"/>
+	<classpathentry kind="src" path="node_modules/type-is"/>
+	<classpathentry kind="src" path="node_modules/uglify-js/lib"/>
+	<classpathentry excluding="test/|test/_/|example/" kind="src" path="node_modules/uglify-js/node_modules/optimist"/>
+	<classpathentry kind="src" path="node_modules/uglify-js/node_modules/optimist/example"/>
+	<classpathentry excluding="_/" kind="src" path="node_modules/uglify-js/node_modules/optimist/test"/>
+	<classpathentry kind="src" path="node_modules/uglify-js/node_modules/optimist/test/_"/>
+	<classpathentry excluding="compress/" kind="src" path="node_modules/uglify-js/test"/>
+	<classpathentry kind="src" path="node_modules/uglify-js/test/compress"/>
+	<classpathentry kind="src" path="node_modules/uglify-js/tools"/>
+	<classpathentry kind="src" path="node_modules/unpipe"/>
+	<classpathentry kind="src" path="node_modules/utils-merge"/>
+	<classpathentry kind="src" path="node_modules/vary"/>
+	<classpathentry kind="src" path="node_modules/walk"/>
+	<classpathentry excluding="example/|test/" kind="src" path="node_modules/wordwrap"/>
+	<classpathentry kind="src" path="node_modules/wordwrap/example"/>
+	<classpathentry kind="src" path="node_modules/wordwrap/test"/>
+	<classpathentry kind="src" path="routes"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.baseBrowserLibrary"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
