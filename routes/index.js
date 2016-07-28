@@ -21,10 +21,5 @@ router.get('/', function (req, res, next) {
 });
 
 
-/* Get Sign Up page */
-
-router.get('/user/singup',function(req,res,next){
-  res.render('user/signup',{csrfToken: req.csrfToken()});
-})
 
 module.exports = router;
